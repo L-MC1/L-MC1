@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/46410359/182505688-ee9a0a56-c19f-4a3a-a6e2-b95813b67984.png)
 
 <!--
 **L-MC1/L-MC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
